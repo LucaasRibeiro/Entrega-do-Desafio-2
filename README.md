@@ -77,3 +77,4 @@ snmpwalk -v 2c -c public 192.168.0.15
     - Servidor SNMP com string "public"
 5. **Fases da Cyber Kill Chain (Reconnaissance → Exploitation → Pivot)**
 6. **Setas bem visíveis e organização lógica**
+<img width="1536" height="1024" alt="Diarama" src="https://github.com/user-attachments/assets/4e81a878-111b-4be5-bcb5-93691f8a0049" />
